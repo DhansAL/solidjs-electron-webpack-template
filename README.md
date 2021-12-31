@@ -8,4 +8,4 @@ A template which includes HMR and Webpack configured for solid.js and electron f
 - @webpack 5
 - includes babel preset for solid
 
-**typescript solid.js will be updated asap**
+**typescript support - coming soon**
